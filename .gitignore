@@ -1,0 +1,7 @@
+# Aptos SDK
+demo/.vscode/
+demo/node_modules/
+
+# Aptos CLI
+demo-userinfo/.aptos/
+demo-userinfo/build/
