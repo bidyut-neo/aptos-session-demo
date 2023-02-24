@@ -6,4 +6,4 @@ git = 'https://github.com/aptos-labs/aptos-core.git'
 rev = 'main'
 subdir = 'aptos-move/framework/aptos-framework'
 [addresses]
-sender = "0x16b56d5796ec2edc3108a15b9f31ca35c6a0a63f3465d7b5fb3e48ff13016f98"
+sender = "0x42"
